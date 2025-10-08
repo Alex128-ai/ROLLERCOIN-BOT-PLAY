@@ -1,1 +1,2 @@
-# ROLLERCOIN-BOT-PLAY
+# rollercoin
+rollercoin bot
